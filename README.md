@@ -1,0 +1,1 @@
+# sns-alerting-shell-script
